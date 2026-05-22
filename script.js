@@ -1,6 +1,8 @@
 // YOUR MANHWA DATABASE
-// Simply add your genres in the array format: genres: ["Genre1", "Genre2"]
 const library = [
+    // ==========================================
+    // ACTION / MANHWA / REGRESSION / REVENGE
+    // ==========================================
     {
         title: "The Priest of Corruption",
         coverUrl: "images/the-priest-of-corruption.jpg",
@@ -141,65 +143,287 @@ const library = [
         description: "My daughter destroyed the world and I died helplessly. But when I woke up, I regressed back to when she was a five-year-old. I must resolve her five misfortunes to raise her right and change the future.",
         category: "Action"
     },
+    {
+        title: "Archmage Transcending Through Regression",
+        coverUrl: "images/archmage-transcending-through-regression.jpg",
+        genres: ["Action", "Adventure", "Fantasy", "Regression"],
+        description: "Mikhail Walpurgis, the world's only 9th-circle Archmage, fell in battle due to a damned hero. Casting one final regression spell, he rewinds time 20 years back to become the hero himself.",
+        category: "Action"
+    },
+    {
+        title: "The Regressed Son of a Duke is an Assassin",
+        coverUrl: "images/the-regressed-son-of-a-duke-is-an-assassin.jpg",
+        genres: ["Action", "Adventure", "Fantasy", "Regression", "Revenge"],
+        description: "Cyan Vert, the best assassin of the continent, meets a pitiful death after being betrayed by his brother. Granted a second chance, he vows to trust only himself and pave his own path.",
+        category: "Action"
+    },
+    {
+        title: "The Regressed Mercenary's Machinations",
+        coverUrl: "images/the-regressed-mercenarys-machinations.jpg",
+        genres: ["Action", "Adventure", "Fantasy", "Regression", "Revenge"],
+        description: "Ghislain Perdium, the Mercenary King, wakes up as a younger version of himself before his household fell. Armed with a second life, he fixes the broken puzzle pieces to avoid his past mistakes.",
+        category: "Action"
+    },
+    {
+        title: "The Novel’s Extra (Remake)",
+        coverUrl: "images/the-novels-extra-remake.jpg",
+        genres: ["Action", "Adventure", "Fantasy", "School Life"],
+        description: "Waking up inside a novel he wrote himself, the author discovers he has possessed a completely unwritten extra character named Chundong with no extraordinary traits.",
+        category: "Action"
+    },
+    {
+        title: "The Knight King Who Returned with a God",
+        coverUrl: "images/the-knight-king-who-returned-with-a-god.jpg",
+        genres: ["Action", "Adventure", "Fantasy", "Overpowered", "Reincarnation"],
+        description: "After hunting down demons in the otherworld for three hundred long years, a legendary knight king finally returns back to Earth—and he did not come back alone.",
+        category: "Action"
+    },
+    {
+        title: "Revenge of the Iron-Blooded Sword Hound",
+        coverUrl: "images/revenge-of-the-iron-blooded-sword-hound.jpg",
+        genres: ["Action", "Adventure", "Fantasy", "Murim", "Reincarnation", "Revenge"],
+        description: "Vikir was a loyal hound of the Baskerville family until he was framed and sent to the guillotine. Given an unexpected second life, the hound sharpens his fangs for absolute vengeance.",
+        category: "Action"
+    },
+    {
+        title: "Academy's Genius Swordmaster",
+        coverUrl: "images/academys-genius-swordmaster.jpg",
+        genres: ["Action", "Adventure", "Fantasy", "Genius MC", "Reincarnation"],
+        description: "Ronan lived a wasteful life full of dark regrets. At the end of his futile days, a second chance returns him to his ten-year-old self, determined to live correctly for those who sacrificed themselves.",
+        category: "Action"
+    },
+    {
+        title: "Regressor Instruction Manual",
+        coverUrl: "images/regressor-instruction-manual.jpg",
+        genres: ["Action", "Adventure", "Fantasy"],
+        description: "Summoned to a brutal world where monsters pour out, the MC's stat numbers hit rock bottom. To survive, he decides to exploit every card, connection, and dirty tactic available.",
+        category: "Action"
+    },
+    {
+        title: "Absolute Regression",
+        coverUrl: "images/absolute-regression.jpg",
+        genres: ["Action", "Adventure", "Fantasy", "Murim", "Regression", "Revenge"],
+        description: "The Unrivaled Swordsman lost everything—his family, friends, and life. Using the Great Regression Technique, he crosses back through time to execute a flawlessly planned revenge.",
+        category: "Action"
+    },
+    {
+        title: "Player Who Returned 10,000 Years Later",
+        coverUrl: "images/player-who-returned-10000-years-later.jpg",
+        genres: ["Action", "Adventure", "Comedy", "Fantasy"],
+        description: "After falling into hell and spending ten thousand years consuming thousands of demons until archdukes bowed down to him, he finally returns to Earth because hell has nothing good to eat.",
+        category: "Action"
+    },
+    {
+        title: "The Reincarnated Assassin is a Genius Swordsman",
+        coverUrl: "images/the-reincarnated-assassin-is-a-genius-swordsman.jpg",
+        genres: ["Action", "Adventure", "Fantasy", "Murim", "Reincarnation"],
+        description: "Living as a chained dog with no emotions, his life ended horribly by his master's hand. Reborn as the youngest child of the continent's strongest family, he wields a sword for revenge.",
+        category: "Action"
+    },
+    {
+        title: "Solo Max-Level Newbie",
+        coverUrl: "images/solo-max-level-newbie.jpg",
+        genres: ["Action", "Adventure", "Comedy", "Fantasy", "Game", "Tower"],
+        description: "Jinhyuk is the only gaming creator who witnessed the final ending of the Tower of Trials. When the game unexpectedly turns into reality, he uses his absolute knowledge to take over everything.",
+        category: "Action"
+    },
+    {
+        title: "Childhood Friend of the Zenith",
+        coverUrl: "images/childhood-friend-of-the-zenith.jpg",
+        genres: ["Action", "Fantasy", "Murim"],
+        description: "Gu Yangchun lived a life of regret under the mind control of the Heavenly Demon. After dying, he regresses back to the day he first met Wi Seol-ah, intending to live a quiet life.",
+        category: "Action"
+    },
+    {
+        title: "Heavenly Inquisition Sword",
+        coverUrl: "images/heavenly-inquisition-sword.jpg",
+        genres: ["Action", "Adventure", "Murim"],
+        description: "Yeon Jeokha was the heavily abused child of a second wife, locked in a warehouse for ten years. Escaping with peerless out-of-this-world martial arts, his journey of vengeance begins.",
+        category: "Action"
+    },
+    {
+        title: "Bones",
+        coverUrl: "images/bones.jpg",
+        genres: ["Action", "Adventure", "Fantasy", "Revenge"],
+        description: "Kang Jihyoung wanted to become a hunter for his mother, but bullies beat her into a vegetative state. Crushed and trapped during his attempts at revenge, the broken boy becomes a beast.",
+        category: "Action"
+    },
+
+    // ==========================================
+    // ROMANCE / DRAMA / MATURE
+    // ==========================================
+    {
+        title: "Lily of the Valley",
+        coverUrl: "images/lily-of-the-valley.jpg",
+        genres: ["Historical", "Yuri", "Drama"],
+        description: "Because of her father's massive debt, Lily is sent to live inside the sprawling mansion of her father's creditor, Rose, alongside her trusted maid Anna.",
+        category: "Mature"
+    },
+    {
+        title: "The Hypnosis App was Fake",
+        coverUrl: "images/the-hypnosis-app-was-fake.jpg",
+        genres: ["Fantasy", "Romance", "Mature"],
+        description: "An unpredictable romantic comedy involving a supposedly functional mind-control app that turns out to have a total twist behind it.",
+        category: "Mature"
+    },
+    {
+        title: "The Girlfriend Dice",
+        coverUrl: "images/the-girlfriend-dice.jpg",
+        genres: ["Romance", "Seinen", "Mature"],
+        description: "A unique Seinen romance drama highlighting complicated modern relationship choices and twists, also known as 1/6 Girlfriend.",
+        category: "Mature"
+    },
+    {
+        title: "Should I Study at Noryangjin",
+        coverUrl: "images/should-i-study-at-noryangjin.jpg",
+        genres: ["Drama", "Romance", "Seinen", "Mature"],
+        description: "An engaging workplace and student life drama focusing on the intense and secretive relationships forged around the famous Noryangjin exam prep streets.",
+        category: "Mature"
+    },
+    {
+        title: "Maidens In-Law",
+        coverUrl: "images/maidens-in-law.jpg",
+        genres: ["Drama", "Romance", "Seinen", "Mature"],
+        description: "A highly dramatic adult romance series that explores the tangled and forbidden family dynamics between in-laws.",
+        category: "Mature"
+    },
+    {
+        title: "Lucky Guy",
+        coverUrl: "images/lucky-guy.jpg",
+        genres: ["Drama", "Romance", "Mature"],
+        description: "A workplace and neighborhood romance detailing the completely unexpected luck and relationship developments of an ordinary guy.",
+        category: "Mature"
+    },
+    {
+        title: "Log in to Lust-a-land",
+        coverUrl: "images/log-in-to-lust-a-land.jpg",
+        genres: ["Adventure", "Fantasy", "Romance", "Mature"],
+        description: "A fantasy game-world isekai setup where navigating through adult levels and relationship mechanics becomes the primary objective.",
+        category: "Mature"
+    },
+    {
+        title: "Learning the Hard Way",
+        coverUrl: "images/learning-the-hard-way.jpg",
+        genres: ["Drama", "Romance", "School Life", "Mature"],
+        description: "When an ordinary student ends up private tutoring a notorious, top-tier school delinquent girl, lessons quickly shift way past basic academic work.",
+        category: "Mature"
+    },
+    {
+        title: "Is There No Goddess in My College?",
+        coverUrl: "images/is-there-no-goddess-in-my-college.jpg",
+        genres: ["Drama", "Romance", "School Life", "Mature"],
+        description: "An engineering college setting highlighting complex romantic drama, secrets, and student encounters.",
+        category: "Mature"
+    },
+    {
+        title: "Front House Lily",
+        coverUrl: "images/front-house-lily.jpg",
+        genres: ["Drama", "Mature"],
+        description: "A deep slice-of-life mature drama exploring the secret personal lives and hidden encounters happening right across the doorstep.",
+        category: "Mature"
+    },
+    {
+        title: "Childhood Bride",
+        coverUrl: "images/childhood-bride.jpg",
+        genres: ["Drama", "Mature"],
+        description: "A dramatic look at two lifelong childhood friends whose close, innocent connection takes an abrupt, intensely mature turn.",
+        category: "Mature"
+    },
+    {
+        title: "Bad Thinking Diary",
+        coverUrl: "images/bad-thinking-diary.jpg",
+        genres: ["Romance", "Yuri", "Mature"],
+        description: "Minji and Yuna have been best friends since childhood. But lately, Minji starts seeing Yuna in an entirely different light as dangerous thoughts begin taking over.",
+        category: "Mature"
+    },
+    {
+        title: "A Pervert’s Daily Life",
+        coverUrl: "images/a-pervert-daily-life.jpg",
+        genres: ["Comedy", "Drama", "Romance", "Mature"],
+        description: "An incredibly sweet and wholesome workplace romantic comedy that follows the internal kinks and domestic daily lives of an office couple.",
+        category: "Mature"
+    },
+    {
+        title: "Teacher’s Efforts",
+        coverUrl: "images/teachers-efforts.jpg",
+        genres: ["Drama", "Romance", "Mature"],
+        description: "A dramatic, intense look into hidden dynamics, personal efforts, and secrets kept inside an academic setting.",
+        category: "Mature"
+    },
+    {
+        title: "Love Quest",
+        coverUrl: "images/love-quest.jpg",
+        genres: ["Romance", "Drama", "Mature"],
+        description: "An adult romance tracking unique milestones, high-stakes relationship tasks, and modern drama.",
+        category: "Mature"
+    },
+    {
+        title: "Stop Smoking",
+        coverUrl: "images/stop-smoking.jpg",
+        genres: ["Comedy", "Slice of Life", "Mature"],
+        description: "Even though I get teased for being short and bullied at work, my house is paradise!! ...Or so I thought, until the neighbors started smoking like crazy!!",
+        category: "Mature"
+    },
+    {
+        title: "Sex Stopwatch",
+        coverUrl: "images/sex-stopwatch.jpg",
+        genres: ["Fantasy", "Magic", "Seinen", "Mature"],
+        description: "A Seinen fantasy concept centering around a magical stopwatch that can halt time, leading to hidden encounters and unexpected turns.",
+        category: "Mature"
+    },
+    {
+        title: "Tears on a Withered Flower",
+        coverUrl: "images/tears-on-a-withered-flower.jpg",
+        genres: ["Manhwa", "Mature", "Romance"],
+        description: "Na Hae-soo's life crumbles after her husband's betrayal, heavy debts, and the loss of her child. Amid her despair, a mysterious young man steps into her life, wanting to learn about love.",
+        category: "Mature"
+    },
+    {
+        title: "Wind Breaker",
+        coverUrl: "images/wind-breaker.jpg",
+        genres: ["Comedy", "Drama", "Romance", "Sports", "Webtoons"],
+        description: "An action-packed street cycling drama mapping the lives, complex romances, and intense struggles of youths pursuing freedom.",
+        category: "Mature"
+    }
 ];
 
-// App Variables
 const libraryGrid = document.getElementById('libraryGrid');
 const categoryFilters = document.getElementById('categoryFilters');
 const viewModal = document.getElementById('viewModal');
-let currentFilter = "All"; // Track which filter button is active
+let currentCategory = 'All';
 
-// Sort data alphabetically right away so indexing remains consistent
-library.sort((a, b) => a.title.localeCompare(b.title));
-
-// Generate the unique filter chips at the top of the page
-function setupFilters() {
-    // Collect all unique genres across all manhwas
-    const allGenres = new Set();
-    library.forEach(item => {
-        if (item.genres) {
-            item.genres.forEach(genre => allGenres.add(genre));
-        }
-    });
-
-    // Turn set into a sorted list and prepend "All"
-    const genreList = ["All", ...Array.from(allGenres).sort()];
-
+// Generate Category Selection Buttons dynamically
+function initFilters() {
+    const categories = ['All', 'Action', 'Mature'];
     categoryFilters.innerHTML = '';
-    genreList.forEach(genre => {
+    
+    categories.forEach(cat => {
         const button = document.createElement('button');
-        button.className = `chip ${genre === currentFilter ? 'active' : ''}`;
-        button.innerText = genre;
-        
-        button.onclick = () => {
-            // Update active state visuals
-            document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+        button.className = `category-chip ${cat === currentCategory ? 'active' : ''}`;
+        button.innerText = cat;
+        button.addEventListener('click', () => {
+            currentCategory = cat;
+            document.querySelectorAll('.category-chip').forEach(btn => btn.classList.remove('active'));
             button.classList.add('active');
-            
-            // Filter library display
-            currentFilter = genre;
-            displayLibrary();
-        };
+            renderLibrary();
+        });
         categoryFilters.appendChild(button);
     });
 }
 
-// Display Grid Cards based on chosen Category Filter Filter Mode
-function displayLibrary() {
+// Render dynamic elements inside card container grids
+function renderLibrary() {
     libraryGrid.innerHTML = '';
     
     library.forEach((item, index) => {
-        // If a filter is selected, check if item includes it
-        if (currentFilter !== "All" && (!item.genres || !item.genres.includes(currentFilter))) {
-            return; // Skip this manhwa if it doesn't match the active filter chip
-        }
-
+        if (currentCategory !== 'All' && item.category !== currentCategory) return;
+        
         const card = document.createElement('div');
         card.className = 'manhwa-card';
-        card.onclick = () => showDetails(index);
-
+        card.addEventListener('click', () => showDetails(index));
+        
         card.innerHTML = `
-            <img src="${item.coverUrl}" class="manhwa-cover" alt="${item.title}" onerror="this.src='https://placehold.co/400x600/1e1e24/e3e2e6?text=No+Image'">
+            <img src="${item.coverUrl}" class="manhwa-cover" alt="${item.title}" onerror=\"this.src='https://placehold.co/400x600/1e1e24/e3e2e6?text=No+Image'\">
             <div class="manhwa-title-overlay">${item.title}</div>
         `;
         libraryGrid.appendChild(card);
@@ -232,10 +456,15 @@ function showDetails(index) {
     viewModal.classList.add('active');
 }
 
-function closeModal() { viewModal.classList.remove('active'); }
-document.getElementById('closeViewModalBtn').onclick = closeModal;
-window.onclick = (event) => { if (event.target === viewModal) { closeModal(); } };
+function closeModal() {
+    viewModal.classList.remove('active');
+}
 
-// Initialize App Setup Elements
-setupFilters();
-displayLibrary();
+document.getElementById('closeViewModalBtn').addEventListener('click', closeModal);
+viewModal.addEventListener('click', (e) => {
+    if (e.target === viewModal) closeModal();
+});
+
+// Fire layout engine hooks on start
+initFilters();
+renderLibrary();
