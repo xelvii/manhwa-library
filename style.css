@@ -100,8 +100,11 @@ h1 {
     height: 100%;
     object-fit: cover;
     display: block;
+    
+    /* Forces sharper rendering in most browsers */
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
 }
-
 /* FIXED TITLE OVERLAY CLAMP FIX */
 .manhwa-title-overlay {
     position: absolute;
