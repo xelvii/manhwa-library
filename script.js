@@ -11,7 +11,7 @@ const library = [
     title: "Return of the 8th Class Magician",
     coverUrl: "images/return-of-the-8th-class-magician.webp",
     genres: ["Fantasy", "Genius MC", "Reincarnation", "Revenge", "Shounen"],
-    description: `Write a short summary about the manhwa here.`,
+    description: `It's been many years since I've bloodied my hands for the United Empire and its emperor, Ragnar. I wanted to return to my hometown and live a quiet life as if to repent for my sins. However, "You are a great 8th class magician who is able to overthrow me and the empire at any time" "How could I let a monster like you stay alive?" After being betrayed on the verge of death by Ragnar, who was my friend as well as my Emperor, He stabbed my heart with a dagger that had time magic applied to it. "The redemption I want is to put everything back to its place."  `,
     categories: ["Finished"]
     },
     
