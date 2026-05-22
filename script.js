@@ -1,11 +1,26 @@
 // YOUR MANHWA DATABASE
 const library = [
     {
-    title: "Long ass title of the manhwa test 123 123 123 1 231 312 31 23",
-    coverUrl: "https://link-to-your-image.jpg",
+    title: "Academy's Genius Swordmaster",
+    coverUrl: "images/academys-genius-swordmaster.webp",
     genres: ["Action", "Fantasy"],
-    description: "Write a short summary about the manhwa here.",
-    category: "Action"
+    description: `Write a short summary about the manhwa here.`,
+    categories: ["Ongoing"]
+    },
+    {
+    title: "Return of the 8th Class Magician",
+    coverUrl: "images/return-of-the-8th-class-magician.webp",
+    genres: ["Fantasy", "Genius MC", "Reincarnation", "Revenge", "Shounen"],
+    description: `Write a short summary about the manhwa here.`,
+    categories: ["Finished"]
+    },
+    
+    {
+    title: "Title",
+    coverUrl: "images/placeholder.webp",
+    genres: ["genres"],
+    description: `Write a short summary about the manhwa here.`,
+    categories: ["Ongoing"]
     },
 ];
 
@@ -16,19 +31,37 @@ let currentCategory = 'All';
 
 // Generate Category Selection Buttons dynamically
 function initFilters() {
-    const categories = ['All', 'Action']; // Removed 'Mature'
+
+    const categories = [
+        'All',
+        'Finished',
+        'Ongoing',
+    ];
+
     categoryFilters.innerHTML = '';
-    
+
     categories.forEach(cat => {
+
         const button = document.createElement('button');
-        button.className = `category-chip ${cat === currentCategory ? 'active' : ''}`;
+
+        button.className =
+            `category-chip ${cat === currentCategory ? 'active' : ''}`;
+
         button.innerText = cat;
+
         button.addEventListener('click', () => {
+
             currentCategory = cat;
-            document.querySelectorAll('.category-chip').forEach(btn => btn.classList.remove('active'));
+
+            document
+                .querySelectorAll('.category-chip')
+                .forEach(btn => btn.classList.remove('active'));
+
             button.classList.add('active');
+
             renderLibrary();
         });
+
         categoryFilters.appendChild(button);
     });
 }
@@ -36,18 +69,34 @@ function initFilters() {
 // Render dynamic elements inside card container grids
 function renderLibrary() {
     libraryGrid.innerHTML = '';
-    
+
+    // SORT A-Z
+    library.sort((a, b) => a.title.localeCompare(b.title));
+
     library.forEach((item, index) => {
-        if (currentCategory !== 'All' && item.category !== currentCategory) return;
-        
+        if (
+            currentCategory !== 'All' &&
+            !item.categories.includes(currentCategory)
+        ) return;
+
         const card = document.createElement('div');
         card.className = 'manhwa-card';
+
         card.addEventListener('click', () => showDetails(index));
-        
+
         card.innerHTML = `
-            <img src="${item.coverUrl}" class="manhwa-cover" alt="${item.title}" onerror=\"this.src='https://placehold.co/400x600/1e1e24/e3e2e6?text=No+Image'\">
-            <div class="manhwa-title-overlay">${item.title}</div>
+            <img
+                src="${item.coverUrl}"
+                class="manhwa-cover"
+                alt="${item.title}"
+                onerror="this.src='https://placehold.co/400x600/1e1e24/e3e2e6?text=No+Image'"
+            >
+
+            <div class="manhwa-title-overlay">
+                ${item.title}
+            </div>
         `;
+
         libraryGrid.appendChild(card);
     });
 }

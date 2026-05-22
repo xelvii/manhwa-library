@@ -110,17 +110,28 @@ h1 {
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(transparent, rgba(0, 0, 0, 0.9) 40%);
-    padding: 30px 8px 8px 8px;
+
+    background: linear-gradient(
+        transparent,
+        rgba(0, 0, 0, 0.95) 35%
+    );
+
+    padding: 40px 10px 10px;
+    
     font-size: 0.85rem;
     font-weight: 500;
-    line-height: 1.2;
-    overflow: hidden;
+    line-height: 1.3;
+
     display: -webkit-box;
-    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
-    /* Use a fixed height or min-height that accommodates exactly 2 lines */
-    min-height: 2.8em; 
+
+    /* increase lines */
+    -webkit-line-clamp: 3;
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    word-break: break-word;
 }
 
 /* DIALOG MODAL LAYOUT */
