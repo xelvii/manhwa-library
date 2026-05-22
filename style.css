@@ -225,3 +225,10 @@ h1 {
     font-weight: bold;
     cursor: pointer;
 }
+
+.manga-title {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;    /* Caps the title at exactly 2 lines maximum */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
