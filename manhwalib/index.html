@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Manhwa Library</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Mihon Library</h1>
+        </header>
+
+        <div class="category-filters" id="categoryFilters">
+            </div>
+
+        <div class="library-grid" id="libraryGrid"></div>
+    </div>
+
+    <div class="modal" id="viewModal">
+        <div class="modal-content" style="max-width: 600px;">
+            <div class="details-layout">
+                <img src="" id="viewCover" class="details-cover" alt="Cover">
+                <div class="details-info">
+                    <h2 id="viewTitle"></h2>
+                    <div id="viewGenres" class="modal-genres"></div>
+                    <p id="viewDescription"></p>
+                </div>
+            </div>
+            <div class="modal-actions">
+                <button class="btn btn-secondary" id="closeViewModalBtn">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
