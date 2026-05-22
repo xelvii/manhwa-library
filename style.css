@@ -102,8 +102,9 @@ h1 {
     display: block;
     
     /* Forces sharper rendering in most browsers */
-    image-rendering: -webkit-optimize-contrast;
-    image-rendering: crisp-edges;
+    image-rendering: -webkit-optimize-contrast; /* Webkit browsers */
+    image-rendering: crisp-edges;               /* Modern standard */
+    object-fit: cover;
 }
 /* FIXED TITLE OVERLAY CLAMP FIX */
 .manhwa-title-overlay {
