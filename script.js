@@ -23,7 +23,7 @@ const library = [
         description: "Dokja was an average office worker whose sole interest was reading his favorite web novel..."
     },
     {
-        title: "Test Manhwa123",
+        title: "Test Manhwa",
         coverUrl: "images/filename.jpg",
         genres: ["Action", "Romance"],
         description: "Synopsis goes here."
