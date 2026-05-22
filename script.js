@@ -5,7 +5,7 @@ const library = [
     // ==========================================
     {
         title: "The Priest of Corruption",
-        coverUrl: "images/the-priest-of-corruption.jpg",
+        coverUrl: "https://cdn.asurascans.com/asura-images/covers/the-priest-of-corruption.b888c9.webp",
         genres: ["Action", "Adventure", "Fantasy"],
         description: "I used a cheat to create a character in the game. When I came to my senses after pressing the play button, I had possessed the 'Priest of Corruption' character I had created...",
         category: "Action"
@@ -384,7 +384,8 @@ const library = [
         genres: ["Comedy", "Drama", "Romance", "Sports", "Webtoons"],
         description: "An action-packed street cycling drama mapping the lives, complex romances, and intense struggles of youths pursuing freedom.",
         category: "Mature"
-    }
+    },
+    
 ];
 
 const libraryGrid = document.getElementById('libraryGrid');
