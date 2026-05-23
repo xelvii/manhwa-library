@@ -259,242 +259,257 @@ With this second chance, he decided to fix all the wrong pieces of the puzzle an
     categories: ["Ongoing"]
     },
     {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
+    title: "The Executioner",
+    coverUrl: "images/the-executioner.webp",
+    genres: ["Action", "Adventure", "Fantasy", "Revenge"],
+    description: `A hero should never kill anyone, not even the worst of villains. Gangyu could never understand why his team of heroes lived by those words, but he tried his best to do the same… until the villain who wiped out his squad killed his brother in prison. Gangyu breaks his vow and enters Ruculus with permission to kill as the prison’s executioner. Now, he must fight his way through the villains to kill the worst of them all.`,
     categories: ["Ongoing"]
     },
     {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
+    title: "+99 Reinforced Wooden Stick",
+    coverUrl: "images/99-reinforced-wood-stick.jfif",
+    genres: ["Action", "Adventure", "Comedy", "Fantasy", "Game"],
+    description: `Welcome to “Chrono Life,” a virtual reality game where only the strongest survive. Ji-u logs in to “Chrono Life,” only to be ignored and ridiculed by the other players for his lack of experience, crappy items, and being an overall noob. But when he upgrades his wooden stick to the max reinforcement level of +99, Ji-u realizes he has the power to split continents and slay armies of thousands in just one swing. “It’s time to teach the rest of you a lesson, you f*ckers.”`,
     categories: ["Ongoing"]
     },
     {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
+    title: "Archmage Transcending Through Regression",
+    coverUrl: "images/archmage-transcending-through-regression.webp",
+    genres: ["Action", "Adventure", "Fantasy", "Regression"],
+    description: `Mikhail Walpurgis, the world's only 9th-circle Archmage, fell in battle due to a damned hero, and managed to cast one final advanced magic spell, . As time rewound, he regressed to 20 years ago."Fine. I’ll just become the hero instead."      `,
+    categories: ["Cancelled"]
+    },
+    {
+    title: "Bones",
+    coverUrl: "images/bones.webp",
+    genres: ["Action", "Adventure", "Drama", "Fantasy"],
+    description: `The protagonist, Kang Jihyoung, wanted to become a hunter for his mother.
+
+However, his bullies put his mother into a vegetative state. He tried to take revenge but was thoroughly crushed and trapped...
+
+The boy who lost everything became a beast and began his hunt.`,
+    categories: ["Finished"]
+    },
+    {
+    title: "Boundless Necromancer",
+    coverUrl: "images/boundless-necromancer.webp",
+    genres: ["Action", "Adventure", "Fantasy"],
+    description: `I never thought I could become a hunter.I never thought I'd get the chance.But that wasn't the case.「 The 'Tower of Trials' has selected all suitable candidates from Earth. 」 「 Please select your difficulty. 」 「 The rewards you get will be directly proportional to your chosen difficulty. 」I was given a chance just now.A special one, at that.`,
+    categories: ["Finished"]
+    },
+    {
+    title: "Damn Reincarnation",
+    coverUrl: "images/damn-reincarnation.webp",
+    genres: ["Action", "Adventure", "Fantasy", "Reincarnation", "Shounen"],
+    description: `Hamel, a warrior who traveled with his colleagues to exterminate the devil. Unfortunately, he died just before the battle with the devil started. "Yes." What the hell? He was reborn as the descendant of his fellow warrior, Vermouth. The descendant from the bloodline of the great Vermouth, Hamel. No, he was now Eugene Lionhart. "It was already enough with me having the delusion that I was a genius in my past life. But… this… It's… It's incomparable.' From a dying body to a new body, he has the achievement that he did not have in his previous life. And, a reincarnation of an unknown origin, the reality of living together with the demons. Facing a new world where everything is questionable. The journey of the unfinished previous life begins with Eugene's body.`,
+    categories: ["Hiatus"]
+    },
+    {
+    title: "Duke Pendragon",
+    coverUrl: "images/duke-pendragon.webp",
+    genres: ["Action", "Adventure", "Demon", "Fantasy", "Reincarnation"],
+    description: `Born as the successor of a low-ranking noble household, Raven Varte wears the sin of plotting a rebellion against the empire. To be granted amnesty, he was sent to fight demons alongside the worst corp of the empire, the ''Demon" corp. Most say that it is a place where most won't survive for even a year, but Raven somehow managed to survive for ten. When his amnesty was in front of his eyes, on his last battlefield, he met the 'Successor of the Pendragon Duke Household, Eren Pendragon.`,
+    categories: ["Finished"]
+    },
+    {
+    title: "F-Class Destiny Hunter",
+    coverUrl: "images/f-class-destiny-hunter.webp",
+    genres: ["Action", "Adventure", "Fantasy", "Regression"],
+    description: `He lost all his teammates to an assassin, but right before dying, he regressed to his past.Right then, Seo Gangrim made the decision never to leave his life to destiny again.`,
+    categories: ["Cancelled"]
+    },
+    {
+    title: "Fated to Be Loved by Villains",
+    coverUrl: "images/fated-to-be-loved-by-villains.webp",
+    genres: ["Action", "Adventure", "Comedy", "Fantasy"],
+    description: `The protagonist became the character Daud Campbell in "Savior Rising," a game he enjoyed and became an veteran in. He possessed the body of a powerless noble living on the outskirts, and decided to live quietly, avoiding others' attention.
+On his first day inside the game, he gets involved with the final boss, also known as the vessel of the grey demon, "Elnore Elinarize la Tristan."
+
+After their encounter, the protagonist gains two special rewards: "Desperate Survival," which makes him stronger when his rate of survival decreases, and "Deadly Charm," which charms those who have evil traits.
+
+Not only do these two skills get him entangled with the final boss, but they also get him entangled with other demon vessels. However, with the use of his skills, he calmly overcomes the challenges with his veteran expertise.
+
+But every time he overcomes a challenge, those with evil traits become interested in him...
+
+Finally, he received his end goal.
+
+"Put this continent's fate on the line and charm all of them."`,
+    categories: ["Finished"]
+    },
+    {
+    title: "Heavenly Inquisition Sword",
+    coverUrl: "images/heavenly-inquisition-sword.webp",
+    genres: ["Action", "Adventure", "Murim"],
+    description: `"He is the master of the Nine Heavens."Yeon Jeokha was the child of a second wife. Viciously bullied by his father's first wife and his siblings, he was later imprisoned in a warehouse after his father died of illness...It has been ten years since his escape after he had learned martial arts that were out of the world."I regard the Yeon Family with great bitterness."The unstoppable adventure of the sole successor of the Heavenly Inquisition Sword, Yeon Jeokha, begins now\!`,
+    categories: ["Finished"]
+    },
+    {
+    title: "Viral Hit",
+    coverUrl: "images/viral-hit.jpg",
+    genres: ["Action", "Adventure", "Comedy"],
+    description: `Scrawny high school student Hobin Yu is probably the last guy you’d expect to star in a NewTube channel that revolves around fighting. But after following some advice from a mysterious NewTube channel, Hobin is soon knocking out guys stronger than him and raking in more money than he could have ever dreamed of. Can Hobin keep this up, or will he eventually meet his match?`,
+    categories: ["Finished"]
+    },
+    {
+    title: "I Became a Renowned Family's Sword Prodigy",
+    coverUrl: "images/i-became-a-renowned-familys-sword-prodigy.webp",
+    genres: ["Action", "Adventure", "Fantasy", "Reincarnation"],
+    description: `Baek Woojin is the youngest son of a renowned swordsman family who has neither talent in swordsmanship nor an impressive Aura, despite trying harder than anyone. Although he was dishonored by his own family and killed, he reincarnates as the owner of a Magic Sword. His only goal is the destruction of his own family. `,
+    categories: ["Cancelled"]
+    },
+    {
+    title: "I'm Not That Kind of Talent",
+    coverUrl: "images/im-not-that-kind-of-talent.webp",
+    genres: ["Action", "Adventure", "Comedy", "Fantasy", "Tragedy"],
+    description: `I'm not that kind of person. I, Deon Hart, am a sickly person who vomits blood whenever I'm stressed.However, at the same time, I'm Demon Arut, who has somehow been misunderstood and thought of as a strong person, and thereby feared by everyone.`,
+    categories: ["Hiatus"]
+    },
+    {
+    title: "Level Up With the Gods",
+    coverUrl: "images/level-up-with-the-gods.jpeg",
+    genres: ["Action", "Adventure", "Fantasy"],
+    description: `A young man discovers he has the ability to level up with the gods, leading to an epic journey of power and self-discovery.`,
+    categories: ["Cancelled"]
+    },
+    {
+    title: "Teenage Mercenary",
+    coverUrl: "images/teenage-mercenary.webp",
+    genres: ["Action", "Adventure", "Drama", "Fantasy", "School Life"],
+    description: `At the age of eight, Ijin Yu lost his parents in a plane crash and became stranded in a foreign land, forced to become a child mercenary in order to stay alive. He returns home ten years later to be reunited with his family in Korea, where food and shelter are plenty and everything seems peaceful. But Ijin will soon learn that life as a teenager is a whole other feat of survival. With only one year of high school left, Ijin must master new tactics to maneuver his way around the schoolhouse battleground. Can he survive a year of high school? Or rather, will the school be able to survive him?`,
     categories: ["Ongoing"]
     },
     {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
+    title: "My Daughter is the Final Boss",
+    coverUrl: "images/my-daughter-is-the-final-boss.webp",
+    genres: ["Action", "Fantasy", "Romance"],
+    description: `My daughter destroyed the world.At the the end of the crossroad, I ended up dying helplessly. However, when I woke up, I saw my five-year-old daughter in front of me.Prevent Seol-Ah's Five Misfortunes. (0/5)I was given another chance. If I fail in raising her well, the world will be destroyed.`,
+    categories: ["Cancelled"]
+    },
+    {
+    title: "Myst, Might, Mayhem",
+    coverUrl: "images/myst-might-mayhem.webp",
+    genres: ["Action", "Adventure", "Crazy MC", "Fantasy", "Murim"],
+    description: `Jeong, the Slaughtering Scythe Demon, feels joy in killing others. He happens to look just like Mok Gyeongwoon, the third young master of the Mok Sword Manor... "If you pretend to be me and live my life. I will let you out of this prison." "Will you really give me that chance?" Slash Kill the third young master and live his life pretending to be him. Will the fake Mok Gyeongwoon survive this life? The serial killer begins his new life as the third young master of the great Mok Sword Manor.`,
+    categories: ["Hiatus"]
+    },
+    {
+    title: "Player Who Returned 10,000 Years Later",
+    coverUrl: "images/player-who-returned-10000-years-later.webp",
+    genres: ["Action", "Adventure", "Comedy", "Fantasy"],
+    description: `One day, out of the blue, he falls into hell. All he has with him is his desire to live and predatory powers. From the thousandth hell to the nine thousandth, he‘s devoured tens and hundreds of thousands of demons, and even the seven archdukes bowed down to him.   "Why do you wish to go back? Your Highness already has everything in hell.“ "Everything, my ass.“ There's nothing to eat or enjoy here! Hell's nothing but desolate land full of terrible demons! "I will return.“ After ten thousand long years, he finally returns to Earth.`,
+    categories: ["Hiatus"]
+    },
+    {
+    title: "Reaper of the Drifting Moon",
+    coverUrl: "images/reaper-of-the-drifting-moon.webp",
+    genres: ["Action", "Fantasy", "Genius MC", "Murim"],
+    description: `He's in the deepest part of the Jianghu. Keep your eyes wide open if you do not wish to get dragged into the abyss.`,
+    categories: ["Hiatus"]
+    },
+    {
+    title: "Reborn as the Enemy Prince",
+    coverUrl: "images/reborn-as-the-enemy-prince.webp",
+    genres: ["Action", "Adventure", "Fantasy"],
+    description: `After losing a war, I woke up as a prince of the “enemy nation” that killed me. The weakest of the princes, Prince Callian, at that, who was destined to die soon. If this is my chance to save my motherland, I have no choice but to survive as the prince of the enemy nation...!`,
+    categories: ["Cancelled"]
+    },
+    {
+    title: "Reincarnation of the Suicidal Battle God",
+    coverUrl: "images/reincarnation-of-the-suicidal-battle-god.webp",
+    genres: ["Action", "Fantasy", "Overpowered", "Reincarnation", "Shounen"],
+    description: `A time travel action fantasy of the strongest of mankind. “Even if the disgusting gods gave me this chance, an opportunity is still an opportunity. Since they want to end up dead, I will kill them.” The last survivor of mankind, Zephyr. The fight with the demons ended in defeat and the gods gave him a chance to go back 10 years in time. The demons who took everything away from humans and the gods who treated humans as beings for sight-seeing. This time, I will tear them to pieces.`,
+    categories: ["Hiatus"]
+    },
+    {
+    title: "Return of the Frozen Player",
+    coverUrl: "images/return-of-the-frozen-player.webp",
+    genres: ["Action", "Fantasy", "Overpowered", "Reincarnation", "Shounen"],
+    description: `5 years after the world changed, the final boss appeared. [The final boss for area earth, the Frost Queen, has appeared.] The Final boss! Of we can just defeat her, out lives will go back to normal! The top five players in the world, including Specter Seo Jun-ho, finally defeated the Frost Queen... But they fell into a deep slumber. 25 years passed. A second floor? It didn't end when the Frost Queen died? Specter awakes from his slumber`,
     categories: ["Ongoing"]
     },
     {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
+    title: "Solo Leveling",
+    coverUrl: "images/solo-leveling.webp",
+    genres: ["Action", "Adventure", "Fantasy", "Shounen"],
+    description: `10 years ago, after “the Gate” that connected the real world with the monster world opened, some of the ordinary, everyday people received the power to hunt monsters within the Gate. They are known as "Hunters". However, not all Hunters are powerful. My name is Sung Jin-Woo, an E-rank Hunter. I'm someone who has to risk his life in the lowliest of dungeons, the "World's Weakest". Having no skills whatsoever to display, I barely earned the required money by fighting in low-leveled dungeons… at least until I found a hidden dungeon with the hardest difficulty within the D-rank dungeons! In the end, as I was accepting death, I suddenly received a strange power, a quest log that only I could see, a secret to leveling up that only I know about! If I trained in accordance with my quests and hunted monsters, my level would rise. Changing from the weakest  Hunter to the strongest S-rank Hunter!  `,
+    categories: ["Finished"]
+    },
+    {
+    title: "Solo Leveling: Ragnarok",
+    coverUrl: "images/solo-leveling-ragnarok.webp",
+    genres: ["Action", "Adventure", "Fantasy"],
+    description: `The Earth's existence is under threat once more as Itarim, the gods of other universes, seek to fill the void left by the Absolute Being. Sung Jinwoo has no choice but to send Beru, the shadow ant king, to awaken his son's powers and start him on the journey he once took. Suho must conquer the shadow dungeon and earn his place in the world of hunters as he navigates through a new world against a new evil looking to swallow the world whole.`,
+    categories: ["Hiatus"]
+    },
+    {
+    title: "SSS-Class Suicide Hunter",
+    coverUrl: "images/sss-class-suicide-hunter.webp",
+    genres: ["Action", "Comedy", "Dungeons", "Fantasy", "Murim", "Tragedy"],
+    description: `I want an S-Rank skill too! I want it so badly, I could die for it![You have awakened an S-Rank skill.] [But it only works when you die.]HUH!? WHAT’S THE POINT OF GETTING ONE IF I DIE !?`,
+    categories: ["Hiatus"]
+    },
+    {
+    title: "Standard of Reincarnation",
+    coverUrl: "images/standard-of-reincarnation.webp",
+    genres: ["Action", "Adventure", "Fantasy", "Murim", "Reincarnation"],
+    description: `The greatest martial family, Samion. Daven, a member of the Samion family, is a one-armed martial soldier without a right arm. Despite the ridicule and contempt he got for only having a left arm, he surpassed the direct line of the Samion family like a genius. However, he got betrayed by his family and parents in the end, thus meeting a poor end. But, he was reincarnated. "I have a right arm?" He had a new family tradition. A naturally gifted body. Experience from his past life. And the god Yulion with him as well. After his reincarnation, everything changed, and a new adventure started.`,
     categories: ["Ongoing"]
     },
     {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
+    title: "Swordmaster’s Youngest Son",
+    coverUrl: "images/swordmasters-youngest-son.webp",
+    genres: ["Action", "Adventure", "Overpowered", "Regression", "Reincarnation", "Shounen"],
+    description: `Jin Runcandel was the youngest son of Runcandel, the land's most prestigious swordsman family... And the biggest failure in Runcandel history.He, who was kicked out miserably and came to a meaningless end, was given another chance."How do you want to use this power?" "I want to use it for myself."Memories of his past life, overwhelming talent, and a contract with God... The preparations to become the greatest are complete.`,
+    categories: ["Hiatus"]
+    },
+    {
+    title: "The Demon Prince goes back to the Academy",
+    coverUrl: "images/the-demon-prince-goes-back-to-the-academy.webp",
+    genres: ["Action", "Adventure", "Fantasy", "Murim"],
+    description: `A young demon prince is sent to a human academy to learn about the world and prepare for his destiny.`,
+    categories: ["Cancelled"]
+    },
+    {
+    title: "The Heavenly Demon's Descendant",
+    coverUrl: "images/the-heavenly-demons-descendant.webp",
+    genres: ["Action", "Adventure", "Fantasy", "Murim", "Revenge"],
+    description: `Jin Suho lost his mother as a child and decided to become a hunter as he sought revenge for her. He gave his life to training himself and finally became a B-rank hunter. Then one day, Suho meets a mysterious man at a Red Gate, which appeared by chance. The mysterious man who introduced himself as the Heavenly Demon revealed to Jin Suho that Suho was his descendant and that he requires Suho’s body to deal with his rival, the Blood Demon. `,
+    categories: ["Cancelled"]
+    },
+    {
+    title: "The Player Hides His Past",
+    coverUrl: "images/the-player-hides-his-past.webp",
+    genres: ["Action", "Adventure", "Comedy", "Fantasy"],
+    description: `The virtual reality game “History of the Archana Continent” became part of reality, and “players” who were synchronized with humans appeared to protect the world. Lee Hoyeol, who was an ordinary salaryman, took over the body of the character he created in middle school, "Grandfell Claudi Arpeus Romeo.” Under normal circumstances, it would have been an absolute failure of a career, but Grandfell, whose occupation is a “demon hunter,” becomes extremely proud in front of demons! The only demon hunter in this world, Grandfell (= Lee Hoyeol) starts to make a move!`,
     categories: ["Ongoing"]
     },
     {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
+    title: "The Priest of Corruption",
+    coverUrl: "images/the-priest-of-corruption.webp",
+    genres: ["Action", "Adventure", "Fantasy"],
+    description: `I used a cheat to create a character in the game. When I came to my senses after pressing the play button, I had possessed the "Priest of Corruption" character I had created. It had to be a character who had bad stats and was hated by all! All I had on me is a woman's dried up hand, but that hand was a goddess's?!`,
+    categories: ["Hiatus"]
     },
     {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
+    title: "Windbreaker",
+    coverUrl: "images/windbreaker.jpeg",
+    genres: ["Comedy", "Drama", "Romance", "Sports"],
     description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
+    categories: ["Finished"]
     },
     {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
+    title: "Worthless Regression",
+    coverUrl: "images/worthless-regression.webp",
+    genres: ["Action", "Adventure", "Fantasy", "Murim", "Regression"],
+    description: `An ordinary middle schooler, Lee Sungmin, is summoned to this world called 'Eria'. He endures for dozens of years with no talents or powers, and makes it through all kinds of hardships to survive, but dies miserably in the end. However, before he dies, he regresses back to the past after obtaining the ‘Stone of the Past Life’ by chance, and gains the opportunity to start his life anew. Yet, he still lives a life without any talents, having nothing. Although he can’t approach the geniuses around him due to the ‘wall’ surrounding them, as well as feeling inferior, he moves forward step by step with firm determination, never giving up. “No matter what, I’m going to live a better life than my previous one even if I have to struggle!”`,
+    categories: ["Hiatus"]
     },
     {
-    title: "Title",
+    title: "To be added",
     coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
-    },
-    {
-    title: "Title",
-    coverUrl: "images/placeholder.webp",
-    genres: ["genres"],
-    description: `Write a short summary about the manhwa here.`,
-    categories: ["Ongoing"]
+    genres: ["TBA"],
+    description: `TBA`,
+    categories: ["TBA"]
     },
 ];
 
@@ -502,6 +517,7 @@ const libraryGrid = document.getElementById('libraryGrid');
 const categoryFilters = document.getElementById('categoryFilters');
 const viewModal = document.getElementById('viewModal');
 let currentCategory = 'All';
+let searchQuery = '';
 
 // Generate Category Selection Buttons dynamically
 function initFilters() {
@@ -546,33 +562,35 @@ function initFilters() {
 function renderLibrary() {
     libraryGrid.innerHTML = '';
 
-    // SORT A-Z
-    library.sort((a, b) => a.title.localeCompare(b.title));
+    // 1. Always keep "To be added" grouped at the absolute bottom
+    library.sort((a, b) => {
+        if (a.title === "To be added") return 1;
+        if (b.title === "To be added") return -1;
+        return a.title.localeCompare(b.title);
+    });
 
     library.forEach((item, index) => {
-        if (
-            currentCategory !== 'All' &&
-            !item.categories.includes(currentCategory)
-        ) return;
+        // 2. Filter by Category Chip selection
+        if (currentCategory !== 'All' && !item.categories.includes(currentCategory)) return;
 
+        // 3. Filter by Search input text query matches (checks titles and arrays of genres)
+        const matchesTitle = item.title.toLowerCase().includes(searchQuery.toLowerCase());
+        const matchesGenre = item.genres && item.genres.some(genre => 
+            genre.toLowerCase().includes(searchQuery.toLowerCase())
+        );
+
+        if (searchQuery && !matchesTitle && !matchesGenre) return;
+
+        // 4. Generate Cards UI
         const card = document.createElement('div');
         card.className = 'manhwa-card';
-
-        card.addEventListener('click', () => showDetails(index));
+        card.onclick = () => showDetails(index);
 
         card.innerHTML = `
-            <img
-                src="${item.coverUrl}"
-                class="manhwa-cover"
-                alt="${item.title}"
-                onerror="this.src='https://placehold.co/400x600/1e1e24/e3e2e6?text=No+Image'"
-            >
-
-            <div class="manhwa-title-overlay">
-                ${item.title}
-            </div>
+            <img src="${item.coverUrl}" class="manhwa-cover" alt="${item.title}" 
+                 onerror="this.src='https://placehold.co/400x600/1e1e24/e3e2e6?text=No+Image'">
+            <div class="manhwa-title-overlay">${item.title}</div>
         `;
-
         libraryGrid.appendChild(card);
     });
 }
@@ -615,3 +633,8 @@ viewModal.addEventListener('click', (e) => {
 // Fire layout engine hooks on start
 initFilters();
 renderLibrary();
+
+document.getElementById('searchInput').addEventListener('input', (e) => {
+    searchQuery = e.target.value;
+    renderLibrary(); // Re-render items in real time as the user types
+});
